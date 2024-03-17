@@ -1,0 +1,8 @@
+com\oubari\orderservice\controller\OrderController.class
+com\oubari\orderservice\dto\OrderLineItemsDto.class
+com\oubari\orderservice\dto\OrderRequest.class
+com\oubari\orderservice\repository\OrderRepostory.class
+com\oubari\orderservice\OrderServiceApplication.class
+com\oubari\orderservice\model\Order.class
+com\oubari\orderservice\model\OrderLineItems.class
+com\oubari\orderservice\service\OrderService.class

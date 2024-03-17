@@ -1,0 +1,8 @@
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\model\Order.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\OrderServiceApplication.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\controller\OrderController.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\model\OrderLineItems.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\dto\OrderLineItemsDto.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\dto\OrderRequest.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\repository\OrderRepostory.java
+C:\Users\El-MEHDI\Pictures\microservices-project\order-service\src\main\java\com\oubari\orderservice\service\OrderService.java

@@ -1,0 +1,8 @@
+com\oubari\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\oubari\inventoryservice\dto\InventoryResponse.class
+com\oubari\inventoryservice\util\DataLoader.class
+com\oubari\inventoryservice\model\Inventory.class
+com\oubari\inventoryservice\service\InventoryService.class
+com\oubari\inventoryservice\repository\InventoryRepository.class
+com\oubari\inventoryservice\controller\InventoryController.class
+com\oubari\inventoryservice\InventoryServiceApplication.class

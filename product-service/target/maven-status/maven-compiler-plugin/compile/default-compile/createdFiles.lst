@@ -1,0 +1,10 @@
+com\oubari\productservice\controller\ProductController.class
+com\oubari\productservice\model\Product.class
+com\oubari\productservice\ProductServiceApplication.class
+com\oubari\productservice\dto\ProductRequest.class
+com\oubari\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\oubari\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\oubari\productservice\dto\ProductResponse.class
+com\oubari\productservice\repository\ProductRepository.class
+com\oubari\productservice\model\Product$ProductBuilder.class
+com\oubari\productservice\service\ProductService.class
